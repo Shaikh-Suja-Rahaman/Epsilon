@@ -10,6 +10,7 @@ export const authClient = createAuthClient({
 			scheme: Constants.expoConfig?.scheme as string,
 			storagePrefix: Constants.expoConfig?.scheme as string,
 			storage: SecureStore,
+			// hsadgfhsdajgfhgsdfaskd
 		}),
 	],
 });
